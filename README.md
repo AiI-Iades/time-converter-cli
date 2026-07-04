@@ -1,2 +1,2 @@
-# time-converter-cli
-CLI tool for converting time units (seconds, minutes, hours, days)
+# Time Converter CLI
+Convert between seconds, minutes, hours, and days via command line.
